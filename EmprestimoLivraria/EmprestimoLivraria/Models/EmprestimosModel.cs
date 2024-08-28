@@ -1,6 +1,17 @@
 ﻿namespace EmprestimoLivraria.Models
 {
-    public class Emprestimo
+    public class EmprestimosModel
     {
+
+        public int Id { get; set; }
+        public string Recebedor { get; set; }
+        public string Fornecedor { get; set; }
+        public int LivrroEmprestado { get; set; }
+        public DateTime DataAtualizacao { get; set; } = DateTime.Now;
+
+
+
+
+
     }
 }
