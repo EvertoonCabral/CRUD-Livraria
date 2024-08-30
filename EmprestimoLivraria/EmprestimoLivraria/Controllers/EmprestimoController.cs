@@ -15,10 +15,15 @@ namespace EmprestimoLivraria.Controllers
         }
         public IActionResult Index()
         {
-
             IEnumerable<EmprestimosModel> emprestimos = _db.Emprestimos;
 
             return View(emprestimos);
         }
+
+        public IActionResult Cadastrar()
+        {
+            return View();
+        }
+
     }
 }

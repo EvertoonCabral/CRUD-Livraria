@@ -37,7 +37,7 @@ namespace EmprestimoLivraria.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("LivrroEmprestado")
+                    b.Property<string>("LivroEmprestado")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 

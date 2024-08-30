@@ -1,12 +1,11 @@
-﻿using System;
-using Microsoft.EntityFrameworkCore.Migrations;
+﻿using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
 namespace EmprestimoLivraria.Migrations
 {
     /// <inheritdoc />
-    public partial class CriacaoDoBanco : Migration
+    public partial class criandoBanco : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -19,7 +18,7 @@ namespace EmprestimoLivraria.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Recebedor = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Fornecedor = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    LivrroEmprestado = table.Column<int>(type: "int", nullable: false),
+                    LivroEmprestado = table.Column<int>(type: "int", nullable: false),
                     DataAtualizacao = table.Column<DateTime>(type: "datetime2", nullable: false)
                 },
                 constraints: table =>
@@ -34,5 +33,9 @@ namespace EmprestimoLivraria.Migrations
             migrationBuilder.DropTable(
                 name: "Emprestimos");
         }
+
+
+
+
     }
 }

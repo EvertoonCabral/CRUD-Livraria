@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace EmprestimoLivraria.Migrations
 {
     [DbContext(typeof(AplicationDbContext))]
-    [Migration("20240828225100_CriacaoDoBanco")]
-    partial class CriacaoDoBanco
+    [Migration("20240830161447_ajustando")]
+    partial class ajustando
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -40,8 +40,9 @@ namespace EmprestimoLivraria.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("LivrroEmprestado")
-                        .HasColumnType("int");
+                    b.Property<string>("LivroEmprestado")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Recebedor")
                         .IsRequired()
