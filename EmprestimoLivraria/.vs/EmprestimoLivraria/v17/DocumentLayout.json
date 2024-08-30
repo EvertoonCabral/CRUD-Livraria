@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|d:\\projetos .net\\crud-emprestimo\\crud-livraria\\emprestimolivraria\\emprestimolivraria\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|solutionrelative:emprestimolivraria\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|d:\\projetos .net\\crud-emprestimo\\crud-livraria\\emprestimolivraria\\emprestimolivraria\\views\\emprestimo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|solutionrelative:emprestimolivraria\\views\\emprestimo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|d:\\projetos .net\\crud-emprestimo\\crud-livraria\\emprestimolivraria\\emprestimolivraria\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|solutionrelative:emprestimolivraria\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|d:\\projetos .net\\crud-emprestimo\\crud-livraria\\emprestimolivraria\\emprestimolivraria\\views\\emprestimo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|solutionrelative:emprestimolivraria\\views\\emprestimo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|d:\\projetos .net\\crud-emprestimo\\crud-livraria\\emprestimolivraria\\emprestimolivraria\\models\\emprestimosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|solutionrelative:emprestimolivraria\\models\\emprestimosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|d:\\projetos .net\\crud-emprestimo\\crud-livraria\\emprestimolivraria\\emprestimolivraria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|solutionrelative:emprestimolivraria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Migrations\\20240828225100_CriacaoDoBanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmprestimoLivraria\\Migrations\\20240828225100_CriacaoDoBanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|d:\\projetos .net\\crud-emprestimo\\crud-livraria\\emprestimolivraria\\emprestimolivraria\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|solutionrelative:emprestimolivraria\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|d:\\projetos .net\\crud-emprestimo\\crud-livraria\\emprestimolivraria\\emprestimolivraria\\models\\emprestimosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|solutionrelative:emprestimolivraria\\models\\emprestimosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|d:\\projetos .net\\crud-emprestimo\\crud-livraria\\emprestimolivraria\\emprestimolivraria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|solutionrelative:emprestimolivraria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,19 +30,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Views\\Emprestimo\\Index.cshtml",
               "RelativeDocumentMoniker": "EmprestimoLivraria\\Views\\Emprestimo\\Index.cshtml",
               "ToolTip": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Views\\Emprestimo\\Index.cshtml*",
               "RelativeToolTip": "EmprestimoLivraria\\Views\\Emprestimo\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-28T23:15:21.6Z",
+              "WhenOpened": "2024-08-30T02:28:17.015Z",
               "EditorCaption": ""
             },
             {
@@ -63,54 +51,16 @@
               "Title": "EmprestimoController.cs",
               "DocumentMoniker": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Controllers\\EmprestimoController.cs",
               "RelativeDocumentMoniker": "EmprestimoLivraria\\Controllers\\EmprestimoController.cs",
-              "ToolTip": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Controllers\\EmprestimoController.cs",
-              "RelativeToolTip": "EmprestimoLivraria\\Controllers\\EmprestimoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Controllers\\EmprestimoController.cs*",
+              "RelativeToolTip": "EmprestimoLivraria\\Controllers\\EmprestimoController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T23:13:48.104Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "EmprestimoLivraria\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "EmprestimoLivraria\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-28T23:11:17.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "20240828225100_CriacaoDoBanco.cs",
-              "DocumentMoniker": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Migrations\\20240828225100_CriacaoDoBanco.cs",
-              "RelativeDocumentMoniker": "EmprestimoLivraria\\Migrations\\20240828225100_CriacaoDoBanco.cs",
-              "ToolTip": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Migrations\\20240828225100_CriacaoDoBanco.cs",
-              "RelativeToolTip": "EmprestimoLivraria\\Migrations\\20240828225100_CriacaoDoBanco.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T22:51:00.906Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Program.cs",
-              "RelativeDocumentMoniker": "EmprestimoLivraria\\Program.cs",
-              "ToolTip": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Program.cs",
-              "RelativeToolTip": "EmprestimoLivraria\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T02:10:51.806Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "AplicationDbContext.cs",
               "DocumentMoniker": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Data\\AplicationDbContext.cs",
               "RelativeDocumentMoniker": "EmprestimoLivraria\\Data\\AplicationDbContext.cs",
@@ -118,8 +68,7 @@
               "RelativeToolTip": "EmprestimoLivraria\\Data\\AplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T02:06:52.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T02:06:52.841Z"
             },
             {
               "$type": "Document",
@@ -131,18 +80,17 @@
               "RelativeToolTip": "EmprestimoLivraria\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-28T02:02:58.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T02:02:58.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "EmprestimosModel.cs",
               "DocumentMoniker": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Models\\EmprestimosModel.cs",
               "RelativeDocumentMoniker": "EmprestimoLivraria\\Models\\EmprestimosModel.cs",
               "ToolTip": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Models\\EmprestimosModel.cs",
               "RelativeToolTip": "EmprestimoLivraria\\Models\\EmprestimosModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-28T01:04:02.283Z",
               "EditorCaption": ""
