@@ -16,8 +16,9 @@
             <label for="Recebedor" class="text-light form-label">Recebedor:</label>
             <input type="text" asp-for="Recebedor" class="shadow-none form-control" id="exampleInputRecebedor" placeholder="Quem está recebendo o livro?">
             <span class="text-danger" asp-validation-for="Recebedor"></span>
+           
         </div>
-
+        <!-- o asp-validation Serve para coletar a respota de erro que esta informada no Model Emprestimo como Requerid no atributo recebedor-->
         <div class="mb-3">
             <label for="Fornecedor" class="text-light form-label">Fornecedor:</label>
             <input asp-for="Fornecedor" type="text" class="form-control shadow-none" id="exampleInputFornecedor" placeholder="Quem está emprestando o livro?">

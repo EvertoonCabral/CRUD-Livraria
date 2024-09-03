@@ -13,6 +13,7 @@ namespace EmprestimoLivraria.Controllers
         {
             _db = db;
         }
+
         public IActionResult Index()
         {
             IEnumerable<EmprestimosModel> emprestimos = _db.Emprestimos;
@@ -20,8 +21,26 @@ namespace EmprestimoLivraria.Controllers
             return View(emprestimos);
         }
 
-        public IActionResult Cadastrar()
+        [HttpPost]
+        public IActionResult Cadastrar(EmprestimosModel emprestimo)
         {
+
+            if (ModelState.IsValid)
+            {
+                _db.Add(emprestimo);
+                _db.SaveChanges();
+
+                return RedirectToAction("Index");
+            }
+
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult Cadastrar() //metodo executado no index da View no botao de cadastrar emprestimo para ser aberto a view da tela
+        {
+
+
             return View();
         }
 
