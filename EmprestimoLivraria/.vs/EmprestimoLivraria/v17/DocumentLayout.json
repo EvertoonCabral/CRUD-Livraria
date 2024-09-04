@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|d:\\projetos .net\\crud-emprestimo\\crud-livraria\\emprestimolivraria\\emprestimolivraria\\views\\emprestimo\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|solutionrelative:emprestimolivraria\\views\\emprestimo\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|d:\\projetos .net\\crud-emprestimo\\crud-livraria\\emprestimolivraria\\emprestimolivraria\\views\\emprestimo\\excluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|solutionrelative:emprestimolivraria\\views\\emprestimo\\excluir.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|d:\\projetos .net\\crud-emprestimo\\crud-livraria\\emprestimolivraria\\emprestimolivraria\\views\\emprestimo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|solutionrelative:emprestimolivraria\\views\\emprestimo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|d:\\projetos .net\\crud-emprestimo\\crud-livraria\\emprestimolivraria\\emprestimolivraria\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|solutionrelative:emprestimolivraria\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|d:\\projetos .net\\crud-emprestimo\\crud-livraria\\emprestimolivraria\\emprestimolivraria\\views\\emprestimo\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|solutionrelative:emprestimolivraria\\views\\emprestimo\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|d:\\projetos .net\\crud-emprestimo\\crud-livraria\\emprestimolivraria\\emprestimolivraria\\models\\emprestimosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|solutionrelative:emprestimolivraria\\models\\emprestimosmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|d:\\projetos .net\\crud-emprestimo\\crud-livraria\\emprestimolivraria\\emprestimolivraria\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|solutionrelative:emprestimolivraria\\controllers\\emprestimocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|d:\\projetos .net\\crud-emprestimo\\crud-livraria\\emprestimolivraria\\emprestimolivraria\\views\\emprestimo\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|solutionrelative:emprestimolivraria\\views\\emprestimo\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|d:\\projetos .net\\crud-emprestimo\\crud-livraria\\emprestimolivraria\\emprestimolivraria\\views\\emprestimo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60A921A9-617F-4142-BF09-898245F447F4}|EmprestimoLivraria\\EmprestimoLivraria.csproj|solutionrelative:emprestimolivraria\\views\\emprestimo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Excluir.cshtml",
+              "DocumentMoniker": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Views\\Emprestimo\\Excluir.cshtml",
+              "RelativeDocumentMoniker": "EmprestimoLivraria\\Views\\Emprestimo\\Excluir.cshtml",
+              "ToolTip": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Views\\Emprestimo\\Excluir.cshtml",
+              "RelativeToolTip": "EmprestimoLivraria\\Views\\Emprestimo\\Excluir.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T23:58:46.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Views\\Emprestimo\\Editar.cshtml",
+              "RelativeDocumentMoniker": "EmprestimoLivraria\\Views\\Emprestimo\\Editar.cshtml",
+              "ToolTip": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Views\\Emprestimo\\Editar.cshtml",
+              "RelativeToolTip": "EmprestimoLivraria\\Views\\Emprestimo\\Editar.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwC4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T23:15:55.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "EmprestimosModel.cs",
               "DocumentMoniker": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Models\\EmprestimosModel.cs",
               "RelativeDocumentMoniker": "EmprestimoLivraria\\Models\\EmprestimosModel.cs",
               "ToolTip": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Models\\EmprestimosModel.cs",
               "RelativeToolTip": "EmprestimoLivraria\\Models\\EmprestimosModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T01:00:35.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Cadastrar.cshtml",
               "DocumentMoniker": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Views\\Emprestimo\\Cadastrar.cshtml",
               "RelativeDocumentMoniker": "EmprestimoLivraria\\Views\\Emprestimo\\Cadastrar.cshtml",
               "ToolTip": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Views\\Emprestimo\\Cadastrar.cshtml",
               "RelativeToolTip": "EmprestimoLivraria\\Views\\Emprestimo\\Cadastrar.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-03T00:40:32.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "EmprestimoController.cs",
               "DocumentMoniker": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Controllers\\EmprestimoController.cs",
               "RelativeDocumentMoniker": "EmprestimoLivraria\\Controllers\\EmprestimoController.cs",
               "ToolTip": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Controllers\\EmprestimoController.cs",
               "RelativeToolTip": "EmprestimoLivraria\\Controllers\\EmprestimoController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCcAAACMAAAAAAAAAA==",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwB4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T00:36:54.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Views\\Emprestimo\\Index.cshtml",
               "RelativeDocumentMoniker": "EmprestimoLivraria\\Views\\Emprestimo\\Index.cshtml",
               "ToolTip": "D:\\Projetos .NET\\CRUD-EMPRESTIMO\\CRUD-Livraria\\EmprestimoLivraria\\EmprestimoLivraria\\Views\\Emprestimo\\Index.cshtml",
               "RelativeToolTip": "EmprestimoLivraria\\Views\\Emprestimo\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-03T00:35:33.552Z",
               "EditorCaption": ""

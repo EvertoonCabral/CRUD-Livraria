@@ -17,6 +17,7 @@ namespace EmprestimoLivraria.Models
         public string  LivroEmprestado { get; set; }
         public DateTime DataAtualizacao { get; set; } = DateTime.Now;
 
+        
 
 
 
